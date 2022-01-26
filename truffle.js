@@ -6,18 +6,18 @@ module.exports = {
   networks: {
     development: {
       host: '127.0.0.1',
-      port: 8545,
-      network_id: '*',
+      port: 21004,
+      network_id: '21004',
     },
-    ropsten: {
-      provider: function() {
-        return new HDWalletProvider(
-          process.env.MNEMONIC,
-          `https://ropsten.infura.io/v3/${process.env.ROPSTEN_INFURA_API_KEY}`
-        )
-      },
-      network_id: '3',
-    },
+    // ropsten: {
+    //   provider: function() {
+    //     return new HDWalletProvider(
+    //       process.env.MNEMONIC,
+    //       `https://ropsten.infura.io/v3/${process.env.ROPSTEN_INFURA_API_KEY}`
+    //     )
+    //   },
+    //   network_id: '3',
+    // },
   },
   compilers: {
     solc: {

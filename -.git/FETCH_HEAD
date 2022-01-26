@@ -1,0 +1,16 @@
+051468f3810635648756da2111702dbd282c75e0		branch 'master' of https://github.com/ggbbest/c4ei-subgraph
+fb652020c27477859f362ea23680776257f17372	not-for-merge	branch 'dependabot/npm_and_yarn/glob-parent-5.1.2' of https://github.com/ggbbest/c4ei-subgraph
+a98a04459a144f380ec5147d3ddd1400cb6e1888	not-for-merge	branch 'dependabot/npm_and_yarn/keypair-1.0.4' of https://github.com/ggbbest/c4ei-subgraph
+4a07b37bc4cfd9e7367d750cfdc4eb9c117010f1	not-for-merge	branch 'dependabot/npm_and_yarn/lodash-4.17.21' of https://github.com/ggbbest/c4ei-subgraph
+18e8ce5f7e29d8376199a760ad940bfbc17a7982	not-for-merge	branch 'dependabot/npm_and_yarn/normalize-url-4.5.1' of https://github.com/ggbbest/c4ei-subgraph
+b738efc0e9bd1cd474e3fc645bdc3c7768a68f4d	not-for-merge	branch 'dependabot/npm_and_yarn/tar-4.4.19' of https://github.com/ggbbest/c4ei-subgraph
+9cd15e1abf762ac680e609b64a624ad51754e289	not-for-merge	branch 'jannis/block-and-call-handlers' of https://github.com/ggbbest/c4ei-subgraph
+5ddfc1b78a699203b8c820d6ce1786995f0e3f76	not-for-merge	branch 'jannis/call-handlers' of https://github.com/ggbbest/c4ei-subgraph
+91ff90427e86f125a569e5049bd1241400754124	not-for-merge	branch 'jannis/codegen-debug-and-apiVersion' of https://github.com/ggbbest/c4ei-subgraph
+205f768d7841d6a405134c5c40b54e7da24e1e2f	not-for-merge	branch 'jannis/integration-tests' of https://github.com/ggbbest/c4ei-subgraph
+371232cf68e6d814facf5e5413ad0fef65144759	not-for-merge	branch 'jannis/template-example' of https://github.com/ggbbest/c4ei-subgraph
+b2a4e332fbb3b220b25488b2cee4657ad84e830a	not-for-merge	branch 'near-blocks-example' of https://github.com/ggbbest/c4ei-subgraph
+5b70fbc4234c8b1972223ce40d0fc9c5864ac1c8	not-for-merge	branch 'near-receipts-example' of https://github.com/ggbbest/c4ei-subgraph
+8b456faa931755e0a735cf6e13db258a47d51c8d	not-for-merge	branch 'nena/add-truffle' of https://github.com/ggbbest/c4ei-subgraph
+197ca37cd88122eab9598cd790a8d2a437322e29	not-for-merge	branch 'nena/schema-update' of https://github.com/ggbbest/c4ei-subgraph
+0a7a028dac7c2d10ef8ac71644a18bbd5b97865f	not-for-merge	branch 'schmidsi/update-ts-cli-compose' of https://github.com/ggbbest/c4ei-subgraph

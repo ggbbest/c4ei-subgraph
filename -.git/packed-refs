@@ -1,0 +1,17 @@
+# pack-refs with: peeled fully-peeled sorted 
+fb652020c27477859f362ea23680776257f17372 refs/remotes/origin/dependabot/npm_and_yarn/glob-parent-5.1.2
+a98a04459a144f380ec5147d3ddd1400cb6e1888 refs/remotes/origin/dependabot/npm_and_yarn/keypair-1.0.4
+4a07b37bc4cfd9e7367d750cfdc4eb9c117010f1 refs/remotes/origin/dependabot/npm_and_yarn/lodash-4.17.21
+18e8ce5f7e29d8376199a760ad940bfbc17a7982 refs/remotes/origin/dependabot/npm_and_yarn/normalize-url-4.5.1
+b738efc0e9bd1cd474e3fc645bdc3c7768a68f4d refs/remotes/origin/dependabot/npm_and_yarn/tar-4.4.19
+9cd15e1abf762ac680e609b64a624ad51754e289 refs/remotes/origin/jannis/block-and-call-handlers
+5ddfc1b78a699203b8c820d6ce1786995f0e3f76 refs/remotes/origin/jannis/call-handlers
+91ff90427e86f125a569e5049bd1241400754124 refs/remotes/origin/jannis/codegen-debug-and-apiVersion
+205f768d7841d6a405134c5c40b54e7da24e1e2f refs/remotes/origin/jannis/integration-tests
+371232cf68e6d814facf5e5413ad0fef65144759 refs/remotes/origin/jannis/template-example
+051468f3810635648756da2111702dbd282c75e0 refs/remotes/origin/master
+b2a4e332fbb3b220b25488b2cee4657ad84e830a refs/remotes/origin/near-blocks-example
+5b70fbc4234c8b1972223ce40d0fc9c5864ac1c8 refs/remotes/origin/near-receipts-example
+8b456faa931755e0a735cf6e13db258a47d51c8d refs/remotes/origin/nena/add-truffle
+197ca37cd88122eab9598cd790a8d2a437322e29 refs/remotes/origin/nena/schema-update
+0a7a028dac7c2d10ef8ac71644a18bbd5b97865f refs/remotes/origin/schmidsi/update-ts-cli-compose
